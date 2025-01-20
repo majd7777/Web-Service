@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-Limiter
+Flask-RESTful
+Flask-Smorest
+python-dotenv
+Werkzeug
+requests
+logging
+marshmallow
